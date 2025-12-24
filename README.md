@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laraRifaii
 - 👀 I’m interested in web programming
-- 🌱 I’m currently a junior developer
+- 🌱 I’m currently a full-stack developer
 - 💞️ I’m looking to collaborate in a web project
 - 📫 How to reach me : rifailara33@gmail.com
 
